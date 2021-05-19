@@ -1,1 +1,0 @@
-(()=>{"use strict";let e;e=2,console.log(2)})();
